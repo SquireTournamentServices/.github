@@ -4,7 +4,7 @@ about: Report a bug to help us improve
 title: '[Bug]: '
 labels: 'bug, review'
 assignees: ''
-
+projects: 'Squire Tournament Services'
 ---
 
 **What went wrong:**
