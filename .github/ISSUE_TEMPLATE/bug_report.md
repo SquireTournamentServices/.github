@@ -5,6 +5,7 @@ title: '[Bug]: '
 labels: 'bug, review'
 assignees: ''
 projects: 'Squire Tournament Services'
+
 ---
 
 **What went wrong:**
