@@ -16,4 +16,4 @@ Describe what isn't being done/what need isn't being met.
 Describe how this need will be remedied.
 
 **Challenges/Considerations**
-If applicatable, describe how this might interfere with the existing codebase or our expections.
+If applicable, describe how this might interfere with the existing codebase or our expectations.
