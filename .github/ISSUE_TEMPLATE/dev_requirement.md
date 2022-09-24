@@ -9,11 +9,11 @@ projects:
 
 ---
 
-**Unmet Need**
+## Unmet Need:
 Describe what isn't being done/what need isn't being met.
 
-**Solution**
+## Solution:
 Describe how this need will be remedied.
 
-**Challenges/Considerations**
+## Challenges/Considerations:
 If applicable, describe how this might interfere with the existing codebase or our expectations.

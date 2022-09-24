@@ -9,14 +9,14 @@ projects:
 
 ---
 
-**What went wrong:**
+## What went wrong:
 A clear and concise description of what the bug is.
 
-**Expected behavior**
+## Expected behavior:
 A clear and concise description of what you expected to happen.
 
-**General Info**
+## General Info:
 If possible/applicable, help us sift through the tournament log files. Provide a name, tournament id, and/or server id.
 
-**To Reproduce**
+## To Reproduce:
 If possible/applicable, provide the steps that were taken that led to the issue.
